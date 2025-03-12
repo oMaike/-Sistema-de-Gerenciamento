@@ -110,12 +110,14 @@ novos recursos, além de garantir eficiência no processamento dos dados.
 
 # Acertos e Erros Durante o Desenvolvimento: 
 
-Acertos: Durante o desenvolvimento do trabalho, tive a oportunidade de aprimorar várias 
+Acertos:
+Durante o desenvolvimento do trabalho, tive a oportunidade de aprimorar várias 
 habilidades, principalmente no que diz respeito à utilização de criatividade para resolver 
 problemas. A implementação do algoritmo de ordenação Quick Sort foi uma escolha acertada, 
 proporcionando uma ordenação eficiente e rápida das atrizes. 
 
-Erros: Por outro lado, tive algumas dificuldades significativas, especialmente ao tentar 
+Erros:
+Por outro lado, tive algumas dificuldades significativas, especialmente ao tentar 
 implementar a funcionalidade de inserção de novas atrizes. A lógica de adicionar novas atrizes 
 ao sistema não funcionou corretamente nas primeiras tentativas, o que resultou em um gasto 
 considerável de tempo para identificar e corrigir o problema. Esse processo envolveu a revisão 
