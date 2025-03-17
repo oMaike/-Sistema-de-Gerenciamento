@@ -1,5 +1,5 @@
 # -Sistema-de-Gerenciamento
-Sistema de gerenciamento de livros em C++ 
+Sistema de gerenciamento de atrizes em C++ 
 
 Projeto desenvolvido para um trabalho da faculdade
 
