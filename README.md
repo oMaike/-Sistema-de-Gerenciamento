@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento
 
-Sistema de gerenciamento de atrizes em C++ desenvolvido para um trabalho academico.
+Sistema de gerenciamento de atrizes em C++ desenvolvido para o trabalho de IALG.
 
 O programa carrega registros de um arquivo CSV, permite consultar, listar, ordenar, adicionar e remover registros logicamente, e pode salvar os dados em CSV ou arquivo binario.
 
